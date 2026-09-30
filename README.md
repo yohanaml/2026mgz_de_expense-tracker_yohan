@@ -1,4 +1,4 @@
-프로젝트 배경
+프로젝트 배경 
 
 이 프로젝트는 Megazone Data Engineering Bootcamp(2026.09–2027.03) 수강 중에 실습에 착안하여 탄생했습니다.
 
