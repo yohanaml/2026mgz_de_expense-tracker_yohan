@@ -1,0 +1,21 @@
+##  나는 지금 어디에 있나
+
+1. AI 도구 경험
+- 필요한 지식 습득에는 Gemini를 사용, 심화한 주제 밑 토론을 위해서는 Chatgpt 사용, 코드 생성 및 프로젝트를 위해서는 claude 사용.
+- 검수를 위하여 여러 모델들을 사용 (예: Gemini의 결과를 chatgpt에 보내어 검수 요청)
+- 검수 중에 hallucination이나 논리에 오류가 있을 시에 이를 구체적으로 명시하고 AI에게 적절한 증거 및 논리를 제공하여 AI가 스스로 수정하도록 유도
+- 검수 중 만약 한 모델의 결과에 대해 다른 모델이 검수한 후 검수 결과가 좋은 경우 원 모델에게 그 검수 결과를 수정/공유 
+
+2. 코드 경험
+- linux 기초
+- SQL는 프로그래머스의 연습문제들을 여러 방법을 통해 풀며 finops과 memory/compute 최적화를 위해 연구
+- python은 youtube의 harvard cs50 python강의의 초중반 부분을  들으며 공부 및 실습, 프로그래머스의 기초 연습문제 풀어봄
+- vibe coding 을 통해 프로그램을 만들고 그 프로그램에서 나오는 output을 ETL 및 분석하는 미니 프로젝트 진행중(나중에 air studio에 사용 가능, 아직 air studio에 없는 기능이라 어떤 ai model이 이야기함)
+- workflow 자동화나 orchestration에 대하여 개념 및 코드 사용 미숙
+- CLI 에 update, install 등 기초적인 커맨드를 사용 
+
+3. 업무 맥락
+- 현재 메가존 data engineering 을 수강하고 있고 메가존에 air studio를 운영하는 air unit에 들어가서 aws 기반의 data engineer로 활동하고 싶어. 만약에 메가존 채용이 안될 시에 다른 곳에도 지원할 계획이야
+
+4. 불안 요소/약점
+- CS 기본지식 부족 -> youtube의 harvard cs50 수업 및 gemini 등의 모델등의 tutoring/mentoring을 통해 학습 중 
